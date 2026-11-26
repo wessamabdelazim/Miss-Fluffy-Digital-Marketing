@@ -1,4 +1,6 @@
 
+## 1. Project Name
+
 **Project Name:** Miss Fluffy - Digital Marketing 
 
 **Brand:** Miss Fluffy Hair Care Products
@@ -87,8 +89,9 @@ KPIs will be evaluated based on available data and campaign objectives.
 
 Project documents, research, content calendar, creative designs, campaigns, reports, and presentation will be organized and shared through the project Google Drive.
 
-**Google Drive:** ( https://drive.google.com/drive/folders/1pBEJHWszerH-bT1AsyepAnG6S2Alsny9 ) 
-
+ **[Project Google Drive]**(https://drive.google.com/drive/folders/1pBEJHWszerH-bT1AsyepAnG6S2Alsny9)
+ 
+ 
 ---
 
 ## 9. Project Platforms
